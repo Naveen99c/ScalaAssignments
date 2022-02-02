@@ -1,4 +1,3 @@
-//1.	Reversal of string in Scala using recursive function
 import scala.io.StdIn._
 import scala.annotation.tailrec
 // 1.	Reversal of string in Scala using recursive function
